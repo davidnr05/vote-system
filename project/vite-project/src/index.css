@@ -1,0 +1,12 @@
+body{
+  display: inline-flex;
+  height: 1024px;
+  padding: 29.272px 21.954px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-shrink: 0;
+  box-shadow: 0px 3.12501px 35.15638px 0px rgba(0, 0, 0, 0.08);
+
+}
+
